@@ -28,7 +28,7 @@ Assignment: Final Project
 * Some code may be written with sqlite and we need to fix to mysql
 * Due to the lack of data, in order to properly see all features I recommend loggin in as Kaye Galang for student and Rene German for professor
 * When creating new student entity also recommended to use computer science program
-* 
+* When registering for a class, the failure or success messages do not come out but the method works overall
 
 ## Execution Instructions
 
