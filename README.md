@@ -2,7 +2,7 @@ Name: Diego Fondevilla, Lindsey Lee, Ethan Santana
 Course: CPSC-408-1
 Assignment: Final Project
 
-## Source Files
+## Source Files/libraries
 
 * main.py
 * db.py
@@ -19,6 +19,8 @@ Assignment: Final Project
 * studentsPerCollege.py
 * viewYearBreakdownInClass.py
 * submission.sql
+* pandas
+* streamlit
 
 ## References
 
