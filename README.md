@@ -4,10 +4,20 @@ Assignment: Final Project
 
 ## Source Files
 
-* app.py
-* db_operations.py
-* helper.py
-* Rideshare.db
+* main.py
+* db.py
+* activate.py
+* createaccount.py
+* professorLogin.py
+* studentLogin.py
+* browseCollege.py
+* registerClass.py
+* studentProfessorClasses.py
+* updateYear.py
+* viewClassesTaken.py
+* browseClass.py
+* studentsPerCollege.py
+* viewYearBreakdownInClass.py
 
 ## References
 
@@ -16,7 +26,9 @@ Assignment: Final Project
 ## Known Errors/Notes
 
 * Some code may be written with sqlite and we need to fix to mysql
-* Due to the lack of data, in order to properly see all features I recommend loggin in as Kaye Galand for student and Rene German for professor
+* Due to the lack of data, in order to properly see all features I recommend loggin in as Kaye Galang for student and Rene German for professor
+* When creating new student entity also recommended to use computer science program
+* 
 
 ## Execution Instructions
 
