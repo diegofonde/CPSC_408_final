@@ -2,9 +2,9 @@
 import streamlit as st
 import db 
 
-from pages.professor_pages.browseClass import browseClass
-from pages.professor_pages.viewYearBreakdowntInClass import viewYearBreakdownInClass
-from pages.professor_pages.studentsPerCollege import studentsPerCollege
+from browseClass import browseClass
+from viewYearBreakdowntInClass import viewYearBreakdownInClass
+from studentsPerCollege import studentsPerCollege
 
 def professorLogin(conn, cur_obj): # For professor log in 
 

@@ -1,11 +1,11 @@
 #imports
 import streamlit as st
 import db 
-from pages.student_pages.browseCollege import browseCollege
-from pages.student_pages.updateyear import updateYear
-from pages.student_pages.studentProfessorClasses import studentProfessorClasses
-from pages.student_pages.registerClass import registerClass
-from pages.student_pages.viewClassesTaken import viewClassesTaken
+from browseCollege import browseCollege
+from updateyear import updateYear
+from studentProfessorClasses import studentProfessorClasses
+from registerClass import registerClass
+from viewClassesTaken import viewClassesTaken
 
 def studentLogin(conn, cur_obj): # For professor log in 
 
